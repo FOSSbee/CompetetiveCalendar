@@ -12,3 +12,9 @@ a) Allowing the user to add items in their schedule so that the basic manifest f
 
 b) Then we plan to add functionality to allow users to select sites to get added in their schedule on its own to make it more convenient than before and should include making requests to the server of these sites. Another feature could be to register for the event from the extension itself.
 ```
+
+Things to be added:
+
+1. A toggle view system that allows the user to view schedule in extension box and in a new page
+2. The add new item button should lead to the opening of a new page and the work should be synced there
+3. We need to use some local storage mechanism to make sure that the user's data remains synced between different sessions, until phase 2 is completed where database will be integrated into the extension utility
