@@ -18,3 +18,4 @@ Things to be added:
 1. A toggle view system that allows the user to view schedule in extension box and in a new page
 2. The add new item button should lead to the opening of a new page and the work should be synced there
 3. We need to use some local storage mechanism to make sure that the user's data remains synced between different sessions, until phase 2 is completed where database will be integrated into the extension utility
+4. A logo, that goes in the manifest
