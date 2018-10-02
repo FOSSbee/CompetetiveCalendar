@@ -5,6 +5,7 @@ This is an application supposed to help competetive coders keep track of challen
 Another functionality could be to add tracks for the user to solve sample and older problems of similar challenges along with daily reminders so that the user can practice efficiently. And depending on his/her performance we can decide what next problem to provide him/her. *Need to come up with an algorithm for this*
 
 Front end library and framework : BootStrap
+
 Multi phase plan
 ```
 a) Allowing the user to add items in their schedule so that the basic manifest file and front end of the app can be set up.
